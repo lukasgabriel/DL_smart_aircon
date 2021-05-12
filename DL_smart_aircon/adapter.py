@@ -1,4 +1,5 @@
 # dl_aircon.py
+# To be used as an interface between "controller.py" and an MQTT broker that forwards the message to a ESP8266 running the dl_Aircon.ino
 
 import json
 
