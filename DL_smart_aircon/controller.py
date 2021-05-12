@@ -1,4 +1,5 @@
 # translator.py
+# To be used as an interface between a Homebridge Thermostat and the "adapter.py" module
 
 from math import ceil, floor
 
